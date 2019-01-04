@@ -41,7 +41,8 @@
                 "MDMRXD=PG_10",
                 "MDMRTS=PG_12",
                 "MDMCTS=PG_11"
-            ]
+            ],
+			"stmod_cellular.type": "QUECTEL_BG96"
         }
     }
 }
